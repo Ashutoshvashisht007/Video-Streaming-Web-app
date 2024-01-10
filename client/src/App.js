@@ -48,6 +48,7 @@ function App() {
             <Main>
               <Navbar openn={openn} setOpenn={setOpenn} videoOpen={videoOpen} />
               <Wrapper>
+              {/* Routes */}
                 <Routes>
                   <Route path="/">
                     <Route index element={<Home type="random" videoOpen={videoOpen} setvideoOpen={setvideoOpen}/>} />
@@ -57,6 +58,7 @@ function App() {
                     <Route path="signin" element={<SignIn/>} />
                     <Route path="video">
                       <Route path=":id" element={<Video/>} />
+                      <Route paht="about" element={<about/>} />
                     </Route>
                   </Route>
                 </Routes>

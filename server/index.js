@@ -21,7 +21,7 @@ const connect = () => {
         throw err;
     });
 }
-app.use(express.static("build"));
+// app.use(express.static("build"));
 app.use(cookieParser());
 app.use(cors());
 app.use(express.json());

@@ -23,7 +23,8 @@
     "redux-persist": "^6.0.0",
     "styled-components": "^5.3.6",
     "timeago.js": "^4.0.2",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "type":"module"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -49,5 +50,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://youtubebackend.onrender.com/"
+  "proxy": "http://localhost:4000"
 }
