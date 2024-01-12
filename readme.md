@@ -61,29 +61,3 @@ Signed In
 ![Signed In](./images/Screenshot%20(888).png)
 
 <br>
-
-Linux Commands
-
-Cpu Usage
-![Cpu Usage](./images/cpu%20usage.jpg)
-
-<br>
-
-Memory Usage
-![Memory usage](./images/memory%20usage.jpg)
-
-<br>
-
-Create user
-![Create user](./images/create.jpg)
-
-<br>
-
-User List
-<br>
-![User List](./images/user%20list.jpg)
-
-<br>
-
-File Info
-![File Info](./images/file%20info.jpg)
